@@ -1,5 +1,5 @@
 // Find duplicates in O(n) time and O(n) extra space
-public class twosum {
+public class duplicate {
 
     public static int findDuplicate(int[] nums){
         int slow = nums[0];
